@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @1Hisoka
+- 👋 Hi, I’m @Hisoka
 - 👀 I’m interested in web web development
 - 🌱 I’m currently learning JavaScript
 - 📫 How to reach me ...instagram:Oal_3, Discord:Hisoka#3018
